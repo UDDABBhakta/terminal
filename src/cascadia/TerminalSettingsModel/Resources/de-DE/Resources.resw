@@ -117,15 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SetColorSchemeParentCommandName" xml:space="preserve">
-    <value>Farbschema auswählen</value>
-  </data>
-  <data name="NewTabParentCommandName" xml:space="preserve">
-    <value>Neue Registerkarte</value>
-  </data>
-  <data name="SplitPaneParentCommandName" xml:space="preserve">
-    <value>Bereich teilen</value>
-  </data>
   <data name="SnippetsPaneCommandName" xml:space="preserve">
     <value>Bereich "Codeausschnitte" öffnen</value>
     <comment>This will open a pane with a list of the users's saved commands ("snippets") in it</comment>
@@ -328,9 +319,6 @@
     <value>Einstellungsdatei öffnen (JSON)</value>
     <comment>{Locked="JSON"}. "JSON" is the extension of the file that will be opened.</comment>
   </data>
-  <data name="OpenTabColorPickerCommandKey" xml:space="preserve">
-    <value>Registerkartenfarbe festlegen</value>
-  </data>
   <data name="PasteTextCommandKey" xml:space="preserve">
     <value>Einfügen</value>
   </data>
@@ -349,9 +337,6 @@
   </data>
   <data name="ResetTabNameCommandKey" xml:space="preserve">
     <value>Den Titel der Registerkarte zurücksetzen</value>
-  </data>
-  <data name="OpenTabRenamerCommandKey" xml:space="preserve">
-    <value>Registerkartentitel umbenennen</value>
   </data>
   <data name="ResizePaneCommandKey" xml:space="preserve">
     <value>Bereich skalieren</value>
@@ -444,17 +429,11 @@
   <data name="SwitchToLastTabCommandKey" xml:space="preserve">
     <value>Zur letzten Registerkarte wechseln</value>
   </data>
-  <data name="TabSearchCommandKey" xml:space="preserve">
-    <value>Registerkarte suchen</value>
-  </data>
   <data name="ToggleAlwaysOnTopCommandKey" xml:space="preserve">
     <value>Modus "Immer im Vordergrund" umschalten</value>
   </data>
   <data name="ToggleCommandPaletteCommandKey" xml:space="preserve">
     <value>Befehlspalette ein/aus</value>
-  </data>
-  <data name="SuggestionsCommandHistoryCommandKey" xml:space="preserve">
-    <value>Zuletzt verwendete Befehle</value>
   </data>
   <data name="SuggestionsCommandKey" xml:space="preserve">
     <value>Vorschläge öffnen</value>
@@ -518,9 +497,6 @@
   <data name="ResetWindowNameCommandKey" xml:space="preserve">
     <value>Fensternamen zurücksetzen</value>
   </data>
-  <data name="OpenWindowRenamerCommandKey" xml:space="preserve">
-    <value>Fenster umbenennen</value>
-  </data>
   <data name="DisplayWorkingDirectoryCommandKey" xml:space="preserve">
     <value>Aktuelles Arbeitsverzeichnis des Terminals anzeigen</value>
   </data>
@@ -568,9 +544,6 @@
   </data>
   <data name="QuitCommandKey" xml:space="preserve">
     <value>Terminal beenden</value>
-  </data>
-  <data name="SetOpacityParentCommandName" xml:space="preserve">
-    <value>Hintergrunddeckkraft festlegen</value>
   </data>
   <data name="IncreaseOpacityCommandKey" xml:space="preserve">
     <value>Hintergrunddeckkraft um {0} % erhöhen</value>

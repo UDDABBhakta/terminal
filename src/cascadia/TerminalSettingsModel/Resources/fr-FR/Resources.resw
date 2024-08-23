@@ -117,15 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SetColorSchemeParentCommandName" xml:space="preserve">
-    <value>Sélectionner un modèle de couleurs</value>
-  </data>
-  <data name="NewTabParentCommandName" xml:space="preserve">
-    <value>Nouvel onglet</value>
-  </data>
-  <data name="SplitPaneParentCommandName" xml:space="preserve">
-    <value>Fractionner le volet</value>
-  </data>
   <data name="SnippetsPaneCommandName" xml:space="preserve">
     <value>Ouvrir le volet des extraits de code</value>
     <comment>This will open a pane with a list of the users's saved commands ("snippets") in it</comment>
@@ -328,9 +319,6 @@
     <value>Ouvrir le fichier des paramètres (JSON)</value>
     <comment>{Locked="JSON"}. "JSON" is the extension of the file that will be opened.</comment>
   </data>
-  <data name="OpenTabColorPickerCommandKey" xml:space="preserve">
-    <value>Définir la couleur de l’onglet</value>
-  </data>
   <data name="PasteTextCommandKey" xml:space="preserve">
     <value>Coller</value>
   </data>
@@ -349,9 +337,6 @@
   </data>
   <data name="ResetTabNameCommandKey" xml:space="preserve">
     <value>Rétablir le titre de l’onglet</value>
-  </data>
-  <data name="OpenTabRenamerCommandKey" xml:space="preserve">
-    <value>Renommer le titre de l'onglet</value>
   </data>
   <data name="ResizePaneCommandKey" xml:space="preserve">
     <value>Redimensionner le volet</value>
@@ -444,17 +429,11 @@
   <data name="SwitchToLastTabCommandKey" xml:space="preserve">
     <value>Basculer vers le dernier onglet</value>
   </data>
-  <data name="TabSearchCommandKey" xml:space="preserve">
-    <value>Recherche de l’onglet</value>
-  </data>
   <data name="ToggleAlwaysOnTopCommandKey" xml:space="preserve">
     <value>Activer le mode Toujours visible</value>
   </data>
   <data name="ToggleCommandPaletteCommandKey" xml:space="preserve">
     <value>Activer/désactiver la palette de commandes</value>
-  </data>
-  <data name="SuggestionsCommandHistoryCommandKey" xml:space="preserve">
-    <value>Commandes récentes</value>
   </data>
   <data name="SuggestionsCommandKey" xml:space="preserve">
     <value>Ouvrir les suggestions</value>
@@ -518,9 +497,6 @@
   <data name="ResetWindowNameCommandKey" xml:space="preserve">
     <value>Réinitialiser le nom de la fenêtre</value>
   </data>
-  <data name="OpenWindowRenamerCommandKey" xml:space="preserve">
-    <value>Fenêtre pour renommer</value>
-  </data>
   <data name="DisplayWorkingDirectoryCommandKey" xml:space="preserve">
     <value>Afficher le répertoire de travail actuel du terminal</value>
   </data>
@@ -568,9 +544,6 @@
   </data>
   <data name="QuitCommandKey" xml:space="preserve">
     <value>Quitter le terminal</value>
-  </data>
-  <data name="SetOpacityParentCommandName" xml:space="preserve">
-    <value>Définir l’opacité de l’arrière-plan</value>
   </data>
   <data name="IncreaseOpacityCommandKey" xml:space="preserve">
     <value>Augmenter l’opacité de l’arrière-plan de {0} %</value>
